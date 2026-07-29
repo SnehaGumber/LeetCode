@@ -14,7 +14,7 @@ class Solution {
                 ans[i] = prefix[r];
             }
             else{
-                ans[i] = prefix[l-1] ^ prefix[r];
+                ans[i] = prefix[r] ^ prefix[l-1];
             }
         }
         return ans;
