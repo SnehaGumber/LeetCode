@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SnehaGumber/LeetCode/tree/master/0402-remove-k-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SnehaGumber/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
