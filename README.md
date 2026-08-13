@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/SnehaGumber/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SnehaGumber/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SnehaGumber/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SnehaGumber/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SnehaGumber/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
