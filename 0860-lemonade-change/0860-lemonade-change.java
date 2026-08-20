@@ -14,8 +14,8 @@ class Solution {
                     count10--;
                     count5--;
                 }
-                else if(count10==0 && count5 > 2){
-                    for(int j=0; j<3; j++) count5--;
+                else if(count5 > 2){
+                    count5-=3;
                 }
                 else return false;
             }
