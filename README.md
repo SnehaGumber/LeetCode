@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SnehaGumber/LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SnehaGumber/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SnehaGumber/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/SnehaGumber/LeetCode/tree/master/0402-remove-k-digits) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SnehaGumber/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
