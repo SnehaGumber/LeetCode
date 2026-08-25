@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/SnehaGumber/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehaGumber/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/SnehaGumber/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/SnehaGumber/LeetCode/tree/master/0860-lemonade-change) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SnehaGumber/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/SnehaGumber/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/SnehaGumber/LeetCode/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/SnehaGumber/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/SnehaGumber/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
