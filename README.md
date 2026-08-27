@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SnehaGumber/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/SnehaGumber/LeetCode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SnehaGumber/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/SnehaGumber/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/SnehaGumber/LeetCode/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SnehaGumber/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SnehaGumber/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/SnehaGumber/LeetCode/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SnehaGumber/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SnehaGumber/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
