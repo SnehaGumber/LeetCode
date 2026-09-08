@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SnehaGumber/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SnehaGumber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SnehaGumber/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SnehaGumber/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SnehaGumber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SnehaGumber/LeetCode/tree/master/0198-house-robber) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SnehaGumber/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SnehaGumber/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
