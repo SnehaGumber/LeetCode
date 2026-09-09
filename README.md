@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SnehaGumber/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SnehaGumber/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SnehaGumber/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -286,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
