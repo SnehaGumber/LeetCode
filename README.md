@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SnehaGumber/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2104-sum-of-subarray-ranges](https://github.com/SnehaGumber/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -291,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
