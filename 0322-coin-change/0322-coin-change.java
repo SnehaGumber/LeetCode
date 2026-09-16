@@ -27,8 +27,7 @@ class Solution{
     public int coinChange(int[] coins, int amount){
         int n = coins.length;
         int[] dp = new int[amount+1];
-        for(int i=1; i<=amount; i++) dp[i] = Integer.MAX_VALUE;
-        dp[0] = 0;
+        for(int i=1; i<=amount; i++) dp[i] = Integer.MAX_VALUE; // signifies this values are not yet reached
         for(int i=0; i<n; i++){
             for(int target=1; target<=amount; target++){
                 if(coins[i] <= target){
