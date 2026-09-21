@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SnehaGumber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SnehaGumber/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/SnehaGumber/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SnehaGumber/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/SnehaGumber/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehaGumber/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SnehaGumber/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SnehaGumber/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/SnehaGumber/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SnehaGumber/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
