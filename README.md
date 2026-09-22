@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SnehaGumber/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SnehaGumber/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SnehaGumber/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SnehaGumber/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/SnehaGumber/LeetCode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/SnehaGumber/LeetCode/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SnehaGumber/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SnehaGumber/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SnehaGumber/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
