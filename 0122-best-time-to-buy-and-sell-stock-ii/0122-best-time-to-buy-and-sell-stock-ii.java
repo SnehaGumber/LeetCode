@@ -1,15 +1,13 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int maxProfit = 0;
-        int i=0;
-        int j = i+1;
-        while(j < prices.length){
-            if(prices[j] > prices[i]){
-                maxProfit += prices[j] - prices[i];
+        int i = 1;
+        while(i < prices.length){
+            if(prices[i] > prices[i-1]){
+                maxProfit += prices[i] - prices[i-1];
             }
             i++;
-            j++;
         }
-        return maxProfit;        
+        return maxProfit;
     }
 }
