@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SnehaGumber/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/SnehaGumber/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SnehaGumber/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/SnehaGumber/LeetCode/tree/master/0322-coin-change) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/SnehaGumber/LeetCode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/SnehaGumber/LeetCode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/SnehaGumber/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -396,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SnehaGumber/LeetCode/tree/master/0547-number-of-provinces) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
