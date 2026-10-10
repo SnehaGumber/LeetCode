@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SnehaGumber/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SnehaGumber/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SnehaGumber/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SnehaGumber/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SnehaGumber/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SnehaGumber/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SnehaGumber/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SnehaGumber/LeetCode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SnehaGumber/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Breadth-First Search
 |  |
