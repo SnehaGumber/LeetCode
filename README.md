@@ -437,4 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/SnehaGumber/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/SnehaGumber/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
