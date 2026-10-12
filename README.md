@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SnehaGumber/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SnehaGumber/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SnehaGumber/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SnehaGumber/LeetCode/tree/master/0198-house-robber) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SnehaGumber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SnehaGumber/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehaGumber/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SnehaGumber/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SnehaGumber/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SnehaGumber/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SnehaGumber/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/SnehaGumber/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
 ## Knapsack Problem
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
@@ -473,5 +478,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
