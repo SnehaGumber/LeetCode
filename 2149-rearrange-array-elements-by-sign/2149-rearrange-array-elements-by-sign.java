@@ -1,18 +1,19 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;
+
         int[] ans = new int[n];
 
-        int pos = 0;
-        int neg = 1;
+        int evenIdx = 0;
+        int oddIdx = 1;
 
-        for (int num : nums) {
-            if (num > 0) {
-                ans[pos] = num;
-                pos += 2;
-            } else {
-                ans[neg] = num;
-                neg += 2;
+        for(int x : nums){
+            if(x > 0){
+                ans[evenIdx] = x;
+                evenIdx += 2;
+            }else{
+                ans[oddIdx] = x;
+                oddIdx += 2;
             }
         }
 
