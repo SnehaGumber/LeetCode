@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SnehaGumber/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehaGumber/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SnehaGumber/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SnehaGumber/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SnehaGumber/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehaGumber/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
