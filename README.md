@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SnehaGumber/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SnehaGumber/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SnehaGumber/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SnehaGumber/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SnehaGumber/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SnehaGumber/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SnehaGumber/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SnehaGumber/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SnehaGumber/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
 ## Timsort
 |  |
@@ -485,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0229-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
