@@ -1,6 +1,7 @@
 class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length;
+
         int maxProduct = nums[0];
         int minProduct = nums[0];
         int answer = nums[0];
@@ -10,9 +11,9 @@ class Solution {
             int newMin = Math.min(nums[i], Math.min(nums[i]*maxProduct, nums[i]*minProduct));
             maxProduct = newMax;
             minProduct = newMin;
-            answer = Math.max(answer, newMax);
+            answer = Math.max(answer, maxProduct);
         }
-
+        
         return answer;
     }
 }
