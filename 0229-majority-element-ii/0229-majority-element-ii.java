@@ -1,51 +1,42 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int candidate1 = 0, candidate2 = 0;
-        int count1 = 0, count2 = 0;
-
-        // First pass: Find up to two candidates
-        for (int num : nums) {
-            if (num == candidate1) {
-                count1++;
-            } else if (num == candidate2) {
-                count2++;
-            } else if (count1 == 0) {
-                candidate1 = num;
-                count1 = 1;
-            } else if (count2 == 0) {
-                candidate2 = num;
-                count2 = 1;
-            } else {
-                count1--;
-                count2--;
-            }
-        }
-
-        // Second pass: Verify the candidates
-        count1 = 0;
-        count2 = 0;
-
-        for (int num : nums) {
-            if (num == candidate1) {
-                count1++;
-            } else if (num == candidate2) {
-                count2++;
-            }
-        }
-
+        int  n = nums.length;
         List<Integer> ans = new ArrayList<>();
-        int threshold = nums.length / 3;
 
-        if (count1 > threshold) {
-            ans.add(candidate1);
+        int left = 0;
+        int right = 0;
+        int countLeft = 0;
+        int countRight = 0;
+
+        for(int i=0; i<n; i++){
+            int curr = nums[i];
+            if(curr == left) countLeft++;
+            else if(curr == right) countRight++;
+            else if(countLeft == 0){
+                left = curr;
+                countLeft = 1;
+            }
+            else if(countRight == 0){
+                right = curr;
+                countRight = 1;
+            }
+            else{
+                countLeft--;
+                countRight--;
+            }
         }
 
-        if (count2 > threshold) {
-            ans.add(candidate2);
+        int freqLeft = 0;
+        int freqRight = 0;
+
+        for(int x : nums){
+            if(x == left) freqLeft++;
+            else if(x == right) freqRight++;
         }
 
+        if(freqLeft > n/3) ans.add(left);
+        if(freqRight > n/3) ans.add(right);
+        
         return ans;
     }
 }
