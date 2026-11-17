@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/SnehaGumber/LeetCode/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/SnehaGumber/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SnehaGumber/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/SnehaGumber/LeetCode/tree/master/0622-design-circular-queue) |
 ## DP on Trees
 |  |
