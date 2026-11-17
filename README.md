@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SnehaGumber/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/SnehaGumber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SnehaGumber/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SnehaGumber/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/SnehaGumber/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SnehaGumber/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
