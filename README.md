@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SnehaGumber/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SnehaGumber/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/SnehaGumber/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehaGumber/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SnehaGumber/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SnehaGumber/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SnehaGumber/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehaGumber/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SnehaGumber/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SnehaGumber/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SnehaGumber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SnehaGumber/LeetCode/tree/master/0300-longest-increasing-subsequence) |
