@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SnehaGumber/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/SnehaGumber/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/SnehaGumber/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2104-sum-of-subarray-ranges](https://github.com/SnehaGumber/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SnehaGumber/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SnehaGumber/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/SnehaGumber/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Database
 |  |
 | ------- |
