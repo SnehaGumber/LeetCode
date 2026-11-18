@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SnehaGumber/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SnehaGumber/LeetCode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/SnehaGumber/LeetCode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/SnehaGumber/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/SnehaGumber/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SnehaGumber/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SnehaGumber/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SnehaGumber/LeetCode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SnehaGumber/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/SnehaGumber/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SnehaGumber/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SnehaGumber/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SnehaGumber/LeetCode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/SnehaGumber/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/SnehaGumber/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SnehaGumber/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SnehaGumber/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/SnehaGumber/LeetCode/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/SnehaGumber/LeetCode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/SnehaGumber/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/SnehaGumber/LeetCode/tree/master/1048-longest-string-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/SnehaGumber/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
