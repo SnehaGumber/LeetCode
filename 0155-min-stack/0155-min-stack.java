@@ -13,14 +13,14 @@ class MinStack {
     }
     
     public void pop() {
-        if(minSt.isEmpty()) return;
+        if(st.isEmpty()) return;
         minSt.pop();
         st.pop();
     }
     
     public int top() {
         if(st.isEmpty()) return -1;
-        else return st.peek();
+        return st.peek();
     }
     
     public int getMin() {
