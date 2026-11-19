@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SnehaGumber/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SnehaGumber/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SnehaGumber/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/SnehaGumber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/SnehaGumber/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/SnehaGumber/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SnehaGumber/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SnehaGumber/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SnehaGumber/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SnehaGumber/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/SnehaGumber/LeetCode/tree/master/0402-remove-k-digits) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SnehaGumber/LeetCode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SnehaGumber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SnehaGumber/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SnehaGumber/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/SnehaGumber/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SnehaGumber/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SnehaGumber/LeetCode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/SnehaGumber/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SnehaGumber/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SnehaGumber/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SnehaGumber/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SnehaGumber/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
